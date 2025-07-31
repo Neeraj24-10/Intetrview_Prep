@@ -94,7 +94,7 @@ AI-Interview-Prep/
 | Backend    | Node.js, Express.js            |
 | Database   | MongoDB                        |
 | AI Service | Gemini API (Q&A + Explanation) |
-| Auth       | JWT, Passport.js (if used)     |
+| Auth       | JWT(if used)                   |
 
 ---
 
